@@ -59,4 +59,4 @@ Contributions are welcome! Whether you want to fix a bug, add a feature, or impr
 ## License
 This project is licensed under the MIT License.
    ````javascript
-   To use this template, replace the placeholders (`project_logo.png`, `yourusername`, `screenshot.p
+   To use this template, replace the placeholders (`project_logo.png`, `yourusername`, `screenshot.png`, `demo.mp4`) with your project-specific images and details.    Make sure to create a `LICENSE` file for your project and update the installation and usage instructions as needed.
