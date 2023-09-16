@@ -43,11 +43,20 @@ This Python application provides a user-friendly interface for converting image 
    ```bash
    git clone https://github.com/yourusername/image-to-ico-converter.git
 
+Follow these steps to install the required libraries for running this application:
+
+1. **Python Installation**: Ensure that you have Python installed on your system. If not, you can download and install Python from the official website: [Python Downloads](https://www.python.org/downloads/).
+
+2. **Pillow Installation**: Pillow is a Python Imaging Library that is used in this application. To install Pillow, open your terminal or command prompt and run the following command:
+
+   ```bash
+   pip install Pillow
+
 ## Usage
 
 1. Launch the application:
    ```bash
-   python convert_image.py
+   python Convert-IMG-to-ICO.py
 2. Click the "Choose Image File" button to select an image for conversion.
 3. Customize the image dimensions if needed.
 4. Click the "Convert to ICO" button.
