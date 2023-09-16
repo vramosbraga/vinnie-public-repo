@@ -54,9 +54,9 @@ This Python application provides a user-friendly interface for converting image 
 5. The converted ICO file will be saved in the same directory as the original image.
 
 ## Contributing
+
 Contributions are welcome! Whether you want to fix a bug, add a feature, or improve the documentation, feel free to open a pull request.
 
 ## License
-This project is licensed under the MIT License.
-   ````javascript
-   To use this template, replace the placeholders (`project_logo.png`, `yourusername`, `screenshot.png`, `demo.mp4`) with your project-specific images and details.    Make sure to create a `LICENSE` file for your project and update the installation and usage instructions as needed.
+
+This project is licensed under the GNU License.
