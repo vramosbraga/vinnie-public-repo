@@ -35,6 +35,8 @@ This Python application provides a user-friendly interface for converting image 
 ## Demo
 
 [Watch the Video](https://www.youtube.com/watch?v=TBtn7EhJumw)
+[![Video Preview](thumbnail-image-url)](https://www.youtube.com/watch?v=TBtn7EhJumw)
+
 
 ## Installation
 
