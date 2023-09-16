@@ -1,5 +1,5 @@
 # vinnie-public-repo_convert-image
-Hello [world!] folks! This will be my public repository to expose some of my works! Have fun!
+Hello [world!] folks! This is one of my public repositories to expose some of my works! Have fun!
 
 # Image to ICO Converter
 
