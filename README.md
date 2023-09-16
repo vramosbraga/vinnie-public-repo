@@ -3,7 +3,7 @@ Hello [world!] folks! This is one of my public repositories to expose some of my
 
 # Image to ICO Converter
 
-![Project Logo](project_logo.png)
+![Project Logo](./images/convert-to-ico.png)
 
 **Convert image files into ICO (Icon) format with ease!**
 
