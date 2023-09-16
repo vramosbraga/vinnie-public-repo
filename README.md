@@ -34,7 +34,7 @@ This Python application provides a user-friendly interface for converting image 
 
 ## Demo
 
-[Watch a short demo video](demo.mp4)
+[Watch a short demo video](image-to-ico-converter_DEMO.mp4)
 
 ## Installation
 
