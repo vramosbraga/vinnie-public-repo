@@ -37,6 +37,7 @@ This Python application provides a user-friendly interface for converting image 
 [Watch the Video](https://www.youtube.com/watch?v=TBtn7EhJumw)
 [![Video Preview](thumbnail-image-url)](https://www.youtube.com/watch?v=TBtn7EhJumw)
 
+https://github.com/vramosbraga/vinnie-public-repo_convert-image/assets/96443418/7782984d-3edc-4623-b651-04b63d31a7d5
 
 ## Installation
 
