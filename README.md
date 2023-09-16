@@ -23,7 +23,7 @@ Hello [world!] folks! This is one of my public repositories to expose some of my
 
 This Python application provides a user-friendly interface for converting image files into ICO (Icon) format. Whether you need custom icons for your applications or websites, this tool simplifies the process.
 
-![Screenshot](screenshot.png)
+<img src="./convert-to-ico_screenshot.PNG" alt="Project Logo" width="200" height="200">
 
 ## Features
 
