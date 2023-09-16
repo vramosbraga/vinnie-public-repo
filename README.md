@@ -42,3 +42,21 @@ This Python application provides a user-friendly interface for converting image 
 
    ```bash
    git clone https://github.com/yourusername/image-to-ico-converter.git
+
+## Usage
+
+1. Launch the application:
+   ```bash
+   python convert_image.py
+2. Click the "Choose Image File" button to select an image for conversion.
+3. Customize the image dimensions if needed.
+4. Click the "Convert to ICO" button.
+5. The converted ICO file will be saved in the same directory as the original image.
+
+## Contributing
+Contributions are welcome! Whether you want to fix a bug, add a feature, or improve the documentation, feel free to open a pull request.
+
+## License
+This project is licensed under the MIT License.
+   ````javascript
+   To use this template, replace the placeholders (`project_logo.png`, `yourusername`, `screenshot.p
