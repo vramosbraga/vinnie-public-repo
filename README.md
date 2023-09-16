@@ -36,7 +36,7 @@ This Python application provides a user-friendly interface for converting image 
 
 [Watch a short demo video]
 <video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/vramosbraga/vinnie-public-repo_convert-image/main/image-to-ico-converter_DEMO.mp4" type="video/mp4">
+  <source src="[https://raw.githubusercontent.com/vramosbraga/vinnie-public-repo_convert-image/main/image-to-ico-converter_DEMO.mp4](https://github.com/vramosbraga/vinnie-public-repo_convert-image/blob/main/image-to-ico-converter_DEMO.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
